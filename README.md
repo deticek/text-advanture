@@ -24,7 +24,7 @@ Game Features
 
 Winning and Losing Conditions
 
-    Victory: You win the game by slaying the dragon.
-    Defeat: If your health reaches 0 or below, the game ends, and you’ll need to start over from the beginning.
-
+   Victory: You win the game by slaying the dragon.
+   Defeat: If your health reaches 0 or below, the game ends, and you’ll need to start over from the beginning.
+    
 Enjoy the adventure, and good luck on your quest to slay the dragon!
